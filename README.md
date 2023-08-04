@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Berk!</h1>
-<h3 align="center">I'm an Ex. Civil Engineer turned to Software Development, Master's student in AI. Mainly working on full stack (back-end heavy) technologies with Java.</h3>
+<h3 align="center">I'm an Ex. Civil Engineer turned to Software Developer, Master's student in AI. Mainly working on full stack (back-end heavy) technologies with Java.</h3>
 
 - 🌱 I’m currently working on **Full-Stack Java and Artificial Intelligence**
 
