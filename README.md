@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obgcorp&show_icons=true&locale=en&layout=compact" alt="obgcorp" /></p>
 
 <h3 align="left">Badges:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43f51ea6-f84f-488d-9213-06d515d79a46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43f51ea6-f84f-488d-9213-06d515d79a46" data-share-badge-host="https://www.credly.com"></div>
 
 <!--
 **OBGCORP/OBGCORP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
