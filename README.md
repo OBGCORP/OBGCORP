@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obgcorp&show_icons=true&locale=en&layout=compact" alt="obgcorp" /></p>
 
 <!--START_SECTION:badges-->
+[![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/43f51ea6-f84f-488d-9213-06d515d79a46 "Machine Learning with Python")
 <!--END_SECTION:badges-->
 
 <!--
