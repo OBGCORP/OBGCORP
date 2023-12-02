@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obgcorp&show_icons=true&locale=en&layout=compact" alt="obgcorp" /></p>
 
 <!--START_SECTION:badges-->
+[![Deep Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png)](http://www.credly.com/badges/c3ef6968-c3ef-4352-bfd9-51a58974c26a "Deep Neural Networks with PyTorch")
 [![Computer Vision and Image Processing Essentials](https://images.credly.com/size/110x110/images/130907f0-5b9f-47f3-ba63-073508050096/Computer_Vision_and_and_Image_Processing_Essentials.png)](http://www.credly.com/badges/0d58449d-76cd-4b5c-8a81-791ac2f5a3d1 "Computer Vision and Image Processing Essentials")
 [![Deep Learning Essentials with Keras](https://images.credly.com/size/110x110/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png)](http://www.credly.com/badges/c043b623-e3b7-44b0-b8d0-2108c696834a "Deep Learning Essentials with Keras")
 [![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/43f51ea6-f84f-488d-9213-06d515d79a46 "Machine Learning with Python")
