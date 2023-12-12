@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obgcorp&show_icons=true&locale=en&layout=compact" alt="obgcorp" /></p>
 
 <!--START_SECTION:badges-->
+[![IBM AI Engineering Professional Certificate (V2)](https://images.credly.com/size/110x110/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](http://www.credly.com/badges/bee2e5bc-20d4-4c6f-b728-e94c5a15e745 "IBM AI Engineering Professional Certificate (V2)")
 [![Deep Learning with Tensorflow](https://images.credly.com/size/110x110/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png)](http://www.credly.com/badges/7856fce6-7da5-47fc-a3ed-3464520d4dd6 "Deep Learning with Tensorflow")
 [![Deep Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png)](http://www.credly.com/badges/c3ef6968-c3ef-4352-bfd9-51a58974c26a "Deep Neural Networks with PyTorch")
 [![Computer Vision and Image Processing Essentials](https://images.credly.com/size/110x110/images/130907f0-5b9f-47f3-ba63-073508050096/Computer_Vision_and_and_Image_Processing_Essentials.png)](http://www.credly.com/badges/0d58449d-76cd-4b5c-8a81-791ac2f5a3d1 "Computer Vision and Image Processing Essentials")
