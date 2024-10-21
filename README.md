@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obgcorp&show_icons=true&locale=en&layout=compact" alt="obgcorp" /></p>
 
 <!--START_SECTION:badges-->
+[![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/7164092d-aacd-471e-a056-1b4f4711b0f1 "Google Cybersecurity Certificate")
 [![IBM AI Engineering Professional Certificate (V2)](https://images.credly.com/size/110x110/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](http://www.credly.com/badges/bee2e5bc-20d4-4c6f-b728-e94c5a15e745 "IBM AI Engineering Professional Certificate (V2)")
 [![Deep Learning with Tensorflow](https://images.credly.com/size/110x110/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)](http://www.credly.com/badges/7856fce6-7da5-47fc-a3ed-3464520d4dd6 "Deep Learning with Tensorflow")
 [![Deep Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)](http://www.credly.com/badges/c3ef6968-c3ef-4352-bfd9-51a58974c26a "Deep Neural Networks with PyTorch")
